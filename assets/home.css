@@ -57,7 +57,12 @@ body{
     width:24px;
 
 }
+ 
+.leftSideBarIcons a{
+    text-decoration: none;
+    color: black;
 
+}
 
 .bottomLeftAmazonPicture{
     height: 100px;
@@ -239,6 +244,10 @@ width: 100%;
         border-bottom-left-radius: 40px;
         border-top-left-radius: 40px;
     }
+    .bottomRightSidebar a{
+        text-decoration: none;
+        color: black;
+    }
     .bottomRightSidebar img {
         width: 50px;
         height: 50px;
@@ -325,8 +334,8 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle img{
-        width: 53px;
-        height: 10rem;
+        width: 7rem;
+        height: rem;
         border-radius: 40px;
        
          
@@ -371,7 +380,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle1 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -408,7 +417,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle2 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -445,7 +454,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle3 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -482,7 +491,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle4 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -519,7 +528,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle5 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -556,7 +565,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle6 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -630,7 +639,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle8 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
@@ -667,7 +676,7 @@ width: 100%;
         margin-right: 20rem;
     }
     .story-circle9 img{
-        width: 53px;
+        width: 5rem;
         height: 10rem;
         border-radius: 40px;
        
